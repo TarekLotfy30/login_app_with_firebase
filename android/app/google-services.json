@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216407057129",
+    "project_id": "loginapp-c96e0",
+    "storage_bucket": "loginapp-c96e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216407057129:android:0566e3752e6732bb858678",
+        "android_client_info": {
+          "package_name": "com.example.login_app_bloc_and_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqd3xvKfsIZWgE3tfiHnql0AUpsHABub8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
